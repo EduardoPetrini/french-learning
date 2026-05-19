@@ -35,8 +35,8 @@ const week1: StudyDay[] = [
       'Set to 15 new cards/day. Also start the Ultimate French Pronunciation deck. Focus on the French U and nasal vowels.',
       'https://ankiweb.net/shared/info/1920436358'),
     task('w1d1t3', 20, 'video', 'Alexa — French Alphabet & Pronunciation',
-      'Watch the French Alphabet video and the French Pronunciation series. Focus on the French U and nasal vowels.',
-      'https://www.youtube.com/watch?v=c0_MKNfbJdE', 'c0_MKNfbJdE'),
+      'Search "Learn French with Alexa alphabet" on YouTube. Watch the French Alphabet video and the French Pronunciation series. Focus on the French U and nasal vowels.',
+      'https://www.youtube.com/results?search_query=Learn+French+with+Alexa+alphabet+pronunciation'),
   ]),
   day(1, 2, 'Tuesday', 60, 'Sounds & Survival', 1, [
     task('w1d2t1', 30, 'podcast', 'Language Transfer — Lesson 2',

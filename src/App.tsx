@@ -6,7 +6,7 @@ import { DayPage } from './pages/DayPage'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/french-learning">
       <Routes>
         <Route element={<AppShell />}>
           <Route path="/" element={<HomePage />} />
